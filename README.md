@@ -1,0 +1,4 @@
+Precourse
+=========
+
+basic ruby :o
